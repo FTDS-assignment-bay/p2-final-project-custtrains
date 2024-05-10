@@ -1,0 +1,1 @@
+["Gender", "Item Purchased", "Category", "Location", "Size", "Color", "Season", "Subscription Status", "Shipping Type", "Discount Applied", "Promo Code Used", "Payment Method", "Frequency of Purchases"]

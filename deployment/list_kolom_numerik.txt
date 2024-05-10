@@ -1,0 +1,1 @@
+["Age", "Purchase Amount (USD)", "Review Rating", "Previous Purchases"]
