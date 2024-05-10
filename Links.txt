@@ -1,2 +1,3 @@
 1. Huggingface: https://huggingface.co/spaces/DaniyalKahfi/CusTrains\
-2.  Slide PPT : https://docs.google.com/presentation/d/1vjh9IVUU1ZvNKPaXm_XiybIXZ9drkXybTdHZoNdkoVg/edit#slide=id.g2dad54916a9_2_666\
+2. Slide PPT : https://docs.google.com/presentation/d/1vjh9IVUU1ZvNKPaXm_XiybIXZ9drkXybTdHZoNdkoVg/edit#slide=id.g2dad54916a9_2_666\
+3. Tableau : https://public.tableau.com/app/profile/maria.melisa.gunawan/viz/FinalProject_17150002523150/Dashboard2?publish=yes
